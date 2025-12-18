@@ -14,11 +14,9 @@ Cấu trúc thư mục dự án (Directory Structure)
 │   ├── Lab3_part1.pdf                              
 │   ├── Lab3_part2.pdf  
 │
-├── report/                              # Thư mục chứa báo cáo
-│   └── lap3.md                          # File báo cáo chi tiết này
-│
-├── src/                                 # Mã nguồn Python (Modules/Classes tái sử dụng)
-│   └── Lap3
+├──  lap3.md                            # File báo cáo chi tiết này
+│   
+├─  Lap3                            # Mã nguồn Python (Modules/Classes tái sử dụng) 
 ├── .gitignore                           # File cấu hình bỏ qua file rác (tmp, __pycache__)
 └── README.md                            # Hướng dẫn chạy và tổng quan dự án
 
@@ -282,5 +280,6 @@ GloVe: Global Vectors for Word Representation.
 
 Mikolov et al. (2013).
 Efficient Estimation of Word Representations in Vector Space (Word2Vec).
+
 
 Documentation của gensim: https://radimrehurek.com/gensim/
