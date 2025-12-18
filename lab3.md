@@ -18,7 +18,7 @@ Cấu trúc thư mục dự án (Directory Structure)
 │   
 ├─  Lap3                            # Mã nguồn Python (Modules/Classes tái sử dụng) 
 ├── .gitignore                           # File cấu hình bỏ qua file rác (tmp, __pycache__)
-└── README.md                            # Hướng dẫn chạy và tổng quan dự án
+
 
 
 
@@ -283,3 +283,4 @@ Efficient Estimation of Word Representations in Vector Space (Word2Vec).
 
 
 Documentation của gensim: https://radimrehurek.com/gensim/
+
